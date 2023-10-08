@@ -15,7 +15,7 @@ import java.io.File;
 public class File_RW{
 
     public static void main(String[] args) throws IOException {
-        // TODO code application logic here
+
         File file = new File("src/file_rw/read.txt");
         File file1 = new File("src/file_rw/writer.txt");
 
